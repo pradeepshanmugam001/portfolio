@@ -4,24 +4,24 @@ const projects = [
     description:
       'Deployed a scalable web application on AWS using EC2, VPC, Security Groups, Application Load Balancer and Auto Scaling. Configured networking, load balancing and monitoring for a reliable cloud environment.',
     technologies: ['AWS EC2', 'VPC', 'ALB', 'Auto Scaling', 'Security Groups', 'CloudWatch'],
-    primaryLink: '#',
-    githubLink: 'https://github.com/yourusername/aws-webapp',
+    primaryLink: 'https://github.com/pradeepshanmugam001/CICD-Integration.git',
+    githubLink: 'https://github.com/pradeepshanmugam001/CICD-Integration.git',
   },
   {
     title: 'CI/CD Pipeline with Jenkins and Docker',
     description:
       'Implemented a CI/CD pipeline using GitHub, Jenkins and Docker to automate application build, testing and deployment. The pipeline builds a Docker image and deploys the application to an AWS EC2 environment.',
     technologies: ['Git', 'GitHub', 'Jenkins', 'Docker', 'AWS EC2', 'CI/CD'],
-    primaryLink: '#',
-    githubLink: 'https://github.com/yourusername/jenkins-docker-pipeline',
+    primaryLink: 'https://github.com/pradeepshanmugam001/CICD-Integration.git',
+    githubLink: 'https://github.com/pradeepshanmugam001/CICD-Integration.git',
   },
   {
     title: 'Infrastructure Automation with Terraform and Ansible',
     description:
       'Automated AWS infrastructure provisioning and server configuration using Terraform and Ansible. Terraform provisions AWS resources while Ansible performs server configuration and application setup.',
     technologies: ['Terraform', 'Ansible', 'AWS EC2', 'VPC', 'IAM', 'Linux'],
-    primaryLink: '#',
-    githubLink: 'https://github.com/yourusername/terraform-ansible',
+    primaryLink: 'https://github.com/pradeepshanmugam001/CICD-Integration.git',
+    githubLink: 'https://github.com/pradeepshanmugam001/CICD-Integration.git',
   },
 ]
 

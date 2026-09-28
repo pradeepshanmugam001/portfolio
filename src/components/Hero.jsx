@@ -1,4 +1,5 @@
 import profilePic from '../assets/Pradeep.png'
+import resume from '../assets/Pradeep Shanmugam Resume.pdf'
 
 const socialLinks = [
   { label: 'GitHub', href: 'https://github.com/yourusername', icon: 'GH' },
@@ -24,7 +25,7 @@ function Hero() {
             <a href="#projects" className="btn btn-primary">
               View Projects
             </a>
-            <a href="" className="btn btn-secondary">
+            <a href={resume} download="Pradeep Shanmugam Resume.pdf" className="btn btn-secondary">
               Download Resume
             </a>
             <a href="#contact" className="btn btn-ghost">
